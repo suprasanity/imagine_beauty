@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="223470d1-8705-45ee-b0ba-3afc150d76aa" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/data/experience.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/data/media.js" afterDir="false" />
@@ -26,6 +27,7 @@
       <change afterPath="$PROJECT_DIR$/public/logo.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/public/nathalie.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/styles/globals.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
@@ -105,7 +107,7 @@
       <workItem from="1689166260648" duration="7784000" />
       <workItem from="1689185430189" duration="835000" />
       <workItem from="1689241650361" duration="104000" />
-      <workItem from="1689242163275" duration="12032000" />
+      <workItem from="1689242163275" duration="12674000" />
     </task>
     <servers />
   </component>
